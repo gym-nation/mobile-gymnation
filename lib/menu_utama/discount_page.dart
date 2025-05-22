@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gymnation/api/DatagymAPI.dart';
 import 'package:gymnation/login_screen/styles.dart';
-import 'package:gymnation/login_screen/styles.dart';
 import 'package:gymnation/widget/discount_item.dart';
 
 class DiscountPage extends StatefulWidget {
